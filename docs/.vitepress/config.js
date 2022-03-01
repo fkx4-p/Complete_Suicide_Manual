@@ -11,7 +11,8 @@ module.exports = {
             { text: '首页', link: '/' },
         ],
         sidebar: [
-            { text: '第一章 前言', link: '/chapter-1/' }
+            { text: '第一章 前言', link: '/chapter-1/' },
+            { text: '第二章 TakingMedicines 药物', link: '/chapter-2/' }
         ]
     }
 }
