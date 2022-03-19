@@ -452,3 +452,21 @@ Paraquat和吉克华特(ジクワット)具有相似的结构和性质，两者�
 河豚的卵巢、肝脏含有剧毒，但因为鱼体本身和季节差别，毒性也会有一定的差距，就算是弄到手也不一定适合于自杀。关于这些，作为将难以到手的医药物及致死量列于本章之末。如果能弄到手，倒是希望大家利用。
 
 :::
+
+### (8) 其它管制物品
+
+#### 安眠药、镇静、镇痛剂、抗癫痫剂、自律神经用药、强心剂等
+
+|商品名称|成分通称|致死量|中毒反应|限制|
+|:-:|:-:|:-:|:-:|:-:|
+|安眠药|<ins class="tooltip-right">Secobarbital sodium<span class="tooltiptext">司可巴比妥钠，是一种巴比妥衍生物药物，具有麻醉，抗惊厥，抗焦虑，镇静和催眠的特性。它是美国医生协助自杀中最常用的药物。<a href="https://en.wikipedia.org/wiki/Secobarbital">维基百科页面(EN)</a></span></ins>|估计2g(A);2g(G);至少2.5g,暗示6~8g(I);4.5g(H)|嗜睡、休克、呼吸·心跳停止|(劇),(要),(指)|
+|镇静、镇痛剂|<ins class="tooltip-right">Meprobamate<span class="tooltiptext">眠尔通，又称安定，丙二醇类抗精神失常药物，目前基本被苯二氮类药物取代，目前在中国已停止使用。<a href="https://en.wikipedia.org/wiki/Meprobamate">维基百科页面(EN)</a></span></ins>|15~20g(I)、45g(H)|倦怠感、嗜睡、心跳停止|(要),(指)|
+|镇静、镇痛剂|<ins class="tooltip-right">Pethidine Hydrochloride<span class="tooltiptext">哌替啶盐酸盐，即杜冷丁，一种阿片类止痛药，副作用和成瘾性较吗啡低。<a href="https://zh.wikipedia.org/zh-cn/%E5%93%8C%E6%9B%BF%E5%95%B6">维基百科页面(zh-CN)</a></span></ins>|3.6g(H)|倾眠、昏睡|(要),(指)|
+|镇静、镇痛剂|<ins class="tooltip-right">Aminophylline<span class="tooltiptext">氨茶碱是支气管扩张剂茶碱与乙二胺的比例为2:1 的化合物。氨茶碱比茶碱的效力更低，作用更短。其最常见的用途是治疗哮喘或COPD的气道阻塞。氨茶碱可导致茶碱中毒。已发现氨茶碱可降低异丙酚的镇静作用并降低托吡酯的抗癫痫作用。<a href="https://en.wikipedia.org/wiki/Aminophylline">维基百科页面(EN)</a></span></ins>|估计5~30g(A)|麻痹、昏睡|(劇),(指)|
+|镇静、镇痛剂|<ins class="tooltip-right">Acetaminophen<span class="tooltiptext">对乙酰氨基酚，扑热息，见<a href="/chapter-2/#利斯隆S(リスロンS)">#利斯隆S(リスロンS)</a>。</span></ins>|0.2~1g/kg(A)|目眩、四肢无力|(劇),(指)|
+|抗癫痫剂|<ins class="tooltip-right">Mephobarbital<span class="tooltiptext">甲苯比妥，一种代谢为苯巴比妥(见<a href="/chapter-2/#巴比妥(Barbital)、伊苏米塔尔(イソミタ－ル)、其它">#巴比妥(Barbital)、伊苏米塔尔(イソミタ－ル)、其它</a>)的巴比妥类药物。</span></ins>或<ins class="tooltip-right">Metharbital<span class="tooltiptext">一种巴比妥类抗惊厥药，用于治疗癫痫。它具有与苯巴比妥相似的特性。1990年雅培已停止对其的销售。</span></ins>|2g(G)|嗜眠、意识不清、错乱、休克、心跳停止|(劇),(要),(指)|
+|自律神经用药|<ins class="tooltip-right">Neostigmine<span class="tooltiptext">新斯的明，一种用于治疗重症肌无力的药物，副作用可致心率降低，低血压，虚弱。<a href="https://zh.wikipedia.org/wiki/%E6%96%B0%E6%96%AF%E7%9A%84%E6%98%8E">维基百科页面(zh-CN)</a></span></ins>|约60mg(A)(G)|目昡、四肢无力|(劇),(指)|
+|自律神经用药|<ins class="tooltip-right">Ammonium<span class="tooltiptext">氨。</span></ins>|60mg(G)|目昡、头痛|(劇),(指)|
+|强心剂|<ins class="tooltip-right">Digitoxin<span class="tooltiptext">洋地黄毒苷，是一种强心苷。它是一种植物甾体，在结构和效果上与地高辛类似(但效果更持久)。<a href="https://en.wikipedia.org/wiki/Digitoxin">维基百科页面(EN)</a></span></ins>|最少约3mg(I)|感觉迟钝|(劇),(毒),(指)|
+|强心剂|<ins class="tooltip-right">Digoxin<span class="tooltiptext">地高辛，常见商品名Lanoxin。是一种从毛地黄属植物中提取的强心苷，被广泛用于治疗心脏病。副作用可能包含丧失食欲、恶心、视觉障碍、意识迷离，以及心律不齐等。地高辛有肾毒性。<a href="https://zh.wikipedia.org/zh-cn/%E5%9C%B0%E9%AB%98%E8%BE%9B">维基百科页面(zh-CN)</a></span></ins>|10~20mg(I)|嗜眠、幻觉|(劇),(指)|
+|其他|<ins class="tooltip-right">Phenol isoniazid<span class="tooltiptext">盐酸异烟肼，常用的抗结核病药物，也可用于治疗抑郁症，有较强的肝脏毒性。</span></ins>|8.5~60mg(K);估计最少3g(B)|痉挛、昏睡、肝障碍|(劇),(指)|
