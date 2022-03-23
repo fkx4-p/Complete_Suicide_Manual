@@ -1,6 +1,4 @@
-# 第一章 前言
-
-## 相田くひを的前言
+# 相田くひを的前言
 
 这本书，详详细细写尽自杀的方法。
 
@@ -19,7 +17,7 @@
 谈到这里，很想马上从吃药自杀的方法介绍起，不过为了让"现在为什么要自杀?"这个问题更明白些，以及其它种种商业上的理由，不得不先写一些拉拉杂杂的东西。
 
 <div class="tooltip"> 
-<h3>《Chernobyl》</h3>
+<h2>《Chernobyl》</h2>
   <span class="tooltiptext">小林祐介的歌曲</span>
 </div>
 
@@ -32,7 +30,7 @@
 最后大家终于明白，"大显身手"是不可能实现的，二十二世纪一定会来。(当然，二十一世纪即将来临，因为不会有所谓的世界大战。)世界绝对不会出现末日。只是稍稍接遇到"异界"及"外面"，并无法得到满足。如果希望有更大的刺激，如果真的希望世界走到末日，除非是做"那件事"。
 
 <div class="tooltip"> 
-<h3>《A Long Vacation》</h3>
+<h2>《A Long Vacation》</h2>
   <span class="tooltiptext">中野照夫创作的歌曲</span>
 </div>
 
@@ -43,7 +41,7 @@
 三岛由纪夫在他的自传小说《假面的告白》中，提到:"日常生活"比战争还要恐怖。我们总是一忍再忍的过着这种"令人颤抖的恐怖日常生活"，为的是能带来莫名其妙的"安定将来"。我们一路上步步为营，小心翼翼的避免方向有所偏差，并且没有像电视连续剧那样喜剧收场的结尾。只是，奇怪的"喜悦"总是不断步调缓缓的继续着。是的！关键词是"步调缓缓"和"反复"。持续的相同事物步调缓慢的反复出现；这是让想死的情绪膨胀的第一要素。
 
 <div class="tooltip"> 
-<h3>《Another Brick in the Wall》</h3>
+<h2>《Another Brick in the Wall》</h2>
   <span class="tooltiptext">指英国摇滚乐团Pink Floyd的歌曲</span>
 </div>
 
@@ -56,7 +54,7 @@
 我们每个人都充满无力感，存在或不存在都无所谓，换句话说，生命是轻的；这是让想死的情绪膨胀的第二要素。
 
 <div class="tooltip"> 
-<h3>《Clockwork Orange》</h3>
+<h2>《Clockwork Orange》</h2>
   <span class="tooltiptext">指电影《发条橙》，是一部犯罪片</span>
 </div>
 
@@ -72,13 +70,13 @@
 
 自杀应是相当积极的行为。
 
-<h3>"Angel Dust"</h3>
+<h2>"Angel Dust"</h2>
 
 我有一个朋友，他有一种叫<ins class="tooltip">"天使尘埃"<span class="tooltiptext">天使尘埃(Angel Dust)，即环苯利定(Phencyclidine,PCP)，一种可以强烈的引起幻觉、改变神志的药物。可以导致暴力行为、昏迷、癫痫等，一旦使用将引发对大脑不可逆的损害。<a href="https://en.wikipedia.org/wiki/Phencyclidine">维基百科页面(EN)</a></span></ins>的药物，这是一种吃了之后头脑会变得昏昏沉沉，可以毫不在意地从高楼往下跳的强烈药物。他把这些药物装在金属小囊中，做成项链，形影不离的带在身上。他说:"必要的时候，可以吃下这个来寻死。"我的朋友没有固定工作，每天游手好闲，过得非常愉快。
 
 希望这本书可以成为那条金属小囊项链。
 
-## 编者&译者Rena的前言
+# 编者&译者Rena的前言
 
 <p class="tooltip"><i><b>"Another Thing"</b></i><span class="tooltiptext">Another Thing节由Rena（<a href="https://github.com/YuriMiller">YuriMiller</a>）编写。她完成了翻译和校对工作，并参与了大部分注释编译，于2018年留下本书书稿作为"最后的礼物"后自杀。</span></p>
 
@@ -92,7 +90,7 @@
 
 <p align="right"><b>(Rena,2018-8-5)</b></p>
 
-## 编者Nameless的前言
+# 编者Nameless的前言
 
 <p class="tooltip"><i><b>"2021年修订按"</b></i><span class="tooltiptext">这一部分由<a href="https://github.com/Nameless-284">Nameless-284</a>编写，在Rena告别世界后，Nameless接手了这本书的完善工作</span></p>
 
@@ -108,7 +106,7 @@
 
 <p align="right"><b>(Nameless,2021年的<ins class="tooltip">某一天<span class="tooltiptext">大概是2021-5-10</span></ins>)</b></p>
 
-## 编者Chenxiaosen-Neo的前言
+# 编者Chenxiaosen-Neo的前言
 
 <p class="tooltip"><i><b>"写在前面的碎碎念"</b></i><span class="tooltiptext">这一部分由<a href="https://github.com/Chenxiaosen-Neo">Chenxiaosen-Neo</a>编写，基于Rena的版本，进行了修订与填补，并将自己的自杀方式详尽地写在书中</span></p>
 
@@ -119,7 +117,7 @@
 <p align="right"><b>(Chenxiaosen-Neo,2022年4月)</b></p>
 
 
-## Markdown版编者needhourger的前言
+# Markdown版编者needhourger的前言
 
 <p class="tooltip"><i><b>"2022年"</b></i><span class="tooltiptext">这一部分由<a href="https://github.com/needhourger">needhourger</a>编写，在Nameless再编辑后，制作了Markdown版本，以期便于部署于静态页面</span></p>
 
@@ -137,7 +135,7 @@
 
 <p align="right"><b>(needhourger,2022.2.15)</b></p>
 
-## Vitepress版编者啡咖的前言
+# Vitepress版编者啡咖的前言
 
 <p class="tooltip"><i><b>"距离高考正好100天开始的 ‘一时兴起’ "</b></i><span class="tooltiptext">这一部分由<a href="https://github.com/fkx4-p">fkx4-p</a>编写，在needhourger制作Markdown版本后，因不满意其样式而一时兴起制作的Vitepress版本</span></p>
 
@@ -147,7 +145,7 @@
 
 如果看到了这本书，<i><b>那么请把它读完吧。</b></i>
 
-这个版本是基于Nameless的pdf版进行重编辑的。在这个版本中，我会对一些注释添加外链，修改一些可以确定错误的注释，并将一些成分的音译名称替换为其化学名称。我还会对文章中不通顺的地方进行修改。不过，本人语文极其差劲，并且因为一些原因，头脑会出现时断时续的混乱，可能对文章造成破坏，如果介意，请移步[Rena的版本](https://github.com/YuriMiller/CompleteSuicideManual-Zh_CN)、[Nameless的版本](https://github.com/Nameless-284/Completely_Suicide_Manual)或是[needhourger的版本](https://github.com/needhourger/Completely_Suicide_Manual)，抑或是[Chenxiaosen-Neo的版本](https://github.com/Chenxiaosen-Neo/CompleteSuicideManual2022)。
+这个版本是基于Nameless的pdf版进行重编辑的。在这个版本中，我会对一些注释添加外链，修改一些可以确定错误的注释，并将一些成分的音译名称替换为其化学名称。我还会对文章中不通顺的地方进行修改。不过，本人语文极其差劲，并且因为一些原因，头脑会出现时断时续的混乱，可能对文章造成破坏，如果介意，请移步[Rena的版本](https://github.com/YuriMiller/CompleteSuicideManual-Zh_CN)、[Nameless的版本](https://github.com/Nameless-284/Completely_Suicide_Manual)或是[Chenxiaosen-Neo的版本](https://github.com/Chenxiaosen-Neo/CompleteSuicideManual2022)，抑或是[needhourger的版本](https://github.com/needhourger/Completely_Suicide_Manual)。
 
 我的一点点自私的请求：如果看到了这本书，如果可以的话，请不要以任何方式、形式将其传播给不必要的人。如果可以，请不要Star/Fork/Watch这个repo以及其它所有有关此书的repo。谢谢。
 
