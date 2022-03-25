@@ -143,7 +143,7 @@
 
 我在高考百日誓师的上午(2-25)濒临绝望的时候找到了这本珍贵的书，并对其着迷不已。而前译者与前编者的部分错误让我萌生了一些想法。"把它重新修订！"成为了我最大的心愿，也成为了我走下去的动力。看着错误一个个被修正，心里感受到"我终于也可以为这个世界留下点什么了"，这样也可以无憾地走了。
 
-如果看到了这本书，<i><b>那么请把它读完吧。</b></i>
+如果看到了这本书，***那么请把它读完吧。***
 
 这个版本是基于Nameless的pdf版进行重编辑的。在这个版本中，我会对一些注释添加外链，修改一些可以确定错误的注释，并将一些成分的音译名称替换为其化学名称。我还会对文章中不通顺的地方进行修改。不过，本人语文极其差劲，并且因为一些原因，头脑会出现时断时续的混乱，可能对文章造成破坏，如果介意，请移步[Rena的版本](https://github.com/YuriMiller/CompleteSuicideManual-Zh_CN)、[Nameless的版本](https://github.com/Nameless-284/Completely_Suicide_Manual)或是[Chenxiaosen-Neo的版本](https://github.com/Chenxiaosen-Neo/CompleteSuicideManual2022)，抑或是[needhourger的版本](https://github.com/needhourger/Completely_Suicide_Manual)。
 
