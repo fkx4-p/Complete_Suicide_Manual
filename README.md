@@ -1,3 +1,11 @@
+# 本项目暂时弃坑
+原因如下：
+- 身体+心情双重折磨
+- 没有原版书籍，无法完成部分内容的校订
+- 傻逼Vitepress还在开发，功能不全
+- 我是傻逼
+- 我是傻逼
+
 # 完全自殺手冊
 
 完全自殺手冊，基於Nameless的pdf版進行重編輯。修正錯誤，添加注釋，引入Chenxiaosen-Neo的部分編輯内容，並Vitepress化。您可以在[這裏](https://github.com/fkx4-p/Complete_Suicide_Manual/archive/refs/heads/gh-pages.zip)下載最新的構建的版本，可以將其部署在您的網站或是其它地方。
